@@ -27,5 +27,5 @@ jobs:
         with:
           source_repo: "https://github.com/ziye888/JavaScript.git"
           source_branch: "main"
-          destination_branch: "ziye-sync"
+          destination_branch: "ziye-sync2"
           github_token: ${{ secrets.PAT }}
